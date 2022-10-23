@@ -1,6 +1,8 @@
 name: trinity
 channels:
-  - bioconda
-  - conda-forge
+#  - bioconda
+#  - conda-forge
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/
 dependencies:
   - trinity
