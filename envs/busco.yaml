@@ -1,7 +1,9 @@
 name: busco
 channels:
-  - bioconda
-  - conda-forge
+#  - bioconda
+#  - conda-forge
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/
 dependencies:
   - busco=3.0.2
 
