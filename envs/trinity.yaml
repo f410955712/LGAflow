@@ -5,4 +5,4 @@ channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/
 dependencies:
-  - trinity==2.11.0
+  - trinity==2.11.0 
